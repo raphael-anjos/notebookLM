@@ -113,6 +113,7 @@ Para implementar apoios visuais e a Comunicação Aumentativa e Alternativa (CAA
 
 Gostaria que eu detalhasse como estruturar um "espaço calmo" em casa ou como montar um chaveiro visual com as fichas mais essenciais para momentos de agitação?</i>
 
+## Considerações finais
 Como são respostas muito longas e o tema em questão não é nada técnico, vou me limitar a compartilhar apenas dois prompts e respostas.
 
 Mas achei bem interessante o NotebookLM pretendo continuar utilizando não só para tema do Autismo mas como apoio técnico e demais assuntos, achei muito interessante ter como base para estudos. 
